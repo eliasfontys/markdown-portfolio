@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. :+1:
+2. :tada:
+3. :sparkles:
+   1. Silly
+   2. Icons
